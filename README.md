@@ -4,7 +4,7 @@
 
 
 # Architecture Overview
-![Warehouse Whisper - Architecture Overview](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Warehouse Whisper - Architecture Overview](https://github.com/flori28/warehousewhisper/blob/main/docs/WarehouseWhisper.png?raw=true)
 
 
 # Video 
